@@ -2,9 +2,9 @@
 A blackjack game written on python!
 
 Arguments:
-
+\n\n
 start - start a game
-exit - exit a game while playing
-take - take card
-skip - do not taking card
+\nexit - exit a game while playing
+\ntake - take card
+\nskip - do not taking card
 
