@@ -1,10 +1,15 @@
 # python-blackjack
 A blackjack game written on python!
 
-Arguments:
-\n\n
+  Arguments:
+
+
+
 start - start a game
-\nexit - exit a game while playing
-\ntake - take card
-\nskip - do not taking card
+
+exit - exit a game while playing
+
+take - take card
+
+skip - do not taking card
 
